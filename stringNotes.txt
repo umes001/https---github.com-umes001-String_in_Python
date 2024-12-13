@@ -1,0 +1,71 @@
+12:58 PM 6/14/2024
+----------------
+ String in Python
+----------------
+
+Q-1 What is String.?
+Ans-1- Collections of chars. is called String.
+    2- String work on Unicode value.
+     "Komal"-> 'K','O'-> Ascii Value
+A-65
+B-66
+C-67
+..... Z-> 90
+-----------------
+a-97
+b-98
+c-99
+.....z 122
+
+'A'=='a'
+#65==97
+
+
+in python there are more than one  String built-in functions are available.
+--------------------------------------------------------------------------
+1-lower(): Converts all uppercase characters in a string into lowercase
+
+ 2-upper(): Converts all lowercase characters in a string into uppercase
+3-title(): Convert string to title case
+4-swapcase(): Swap the cases of all characters in a string
+5-capitalize(): Convert the first character of a string to uppercase
+6-count()	Returns the number of occurrences of a substring in the string.
+
+7-find()	Returns the lowest index of the substring if it is found
+
+8-format()	Formats the string for printing it to console
+--------------------------------------------------------------------
+9-index()	Returns the position of the first occurrence of a substring 
+                in a string
+
+10-isalnum()	Checks whether all the characters in a given string is alphanumeric or not
+11-isalpha()	Returns “True” if all characters in the string are alphabets
+12-isdecimal()	Returns true if all characters in a string are decimal
+13-isdigit()	Returns “True” if all characters in the string are digits
+14-isidentifier()	Check whether a string is a valid identifier or not
+15-islower()	Checks if all characters in the string are lowercase
+16-isnumeric()	Returns “True” if all characters in the string are numeric characters
+17-isprintable()	Returns “True” if all characters in the string are 
+                     printable or the string is empty
+18-isspace()	Returns “True” if all characters in the string are 
+                whitespace characters
+19-istitle()	Returns “True” if the string is a title cased string
+20-isupper()	Checks if all characters in the string are uppercase
+21-join()	Returns a concatenated String
+22-ljust()	Left aligns the string according to the width specified
+23-lstrip()	Returns the string with leading characters removed
+24-maketrans()	 Returns a translation table
+25-partition()	Splits the string at the first occurrence of the separator 
+27-replace()	Replaces all occurrences of a substring with another substring
+28-rfind()	Returns the highest index of the substring
+29-rindex()	Returns the highest index of the substring inside the string
+30-rjust()	Right aligns the string according to the width specified
+31-rsplit()	Split the string from the right by the specified separator32-rstrip()	Removes trailing characters
+32-startswith()	Returns “True” if a string starts with the given prefix
+33-strip()	Returns the string with both leading and trailing characters
+34-swapcase()	Converts all uppercase characters to lowercase and vice versa
+35-upper()	Converts all lowercase characters in a string into uppercase
+-----------------------------------------------------------------------------------
+
+             
+
